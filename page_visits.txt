@@ -1,0 +1,12 @@
+guest_book.php,2012-03-17,10:37:03,guest_book.php,POST,cis_lab_24.example.edu,80
+index.php,2012-03-18,10:37:03,www.example.com/dgosselin/links.html,GET,dgosselin.example.com,80
+links.php,2012-03-18,10:37:44,index.php,GET,dgosselin.example.com,80
+vacation.php,2012-03-18,15:52:51,www.google.com/search,GET,portal.example.net,80
+vacation.php,2012-03-18,15:53:02,www.google.com/search,GET,portal.example.net,80
+index.php,2012-03-18,23:33:31,,GET,proxy.example.edu,8080
+vacation.php,2012-03-18,23:33:47,index.php,GET,proxy.example.edu,8080
+index.php,2012-03-19,03:51:14,,GET,172.23.19.203,80
+vacation.php,2012-03-19,03:51:14,index.php,GET,172.23.19.203,80
+vacation_map.php,2012-03-19,03:51:14,vacation.php,GET,172.23.19.203,80
+contact.php,2012-03-19,03:52:22,vacation_map.php,GET,172.23.19.203,80
+contact.php,2012-03-19,03:54:40,contact.php,POST,172.23.19.203,80
