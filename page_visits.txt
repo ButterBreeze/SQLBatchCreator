@@ -1,3 +1,4 @@
+pagevists(page_filename VARCHAR(250), visit_date DATE, cisit_time TIME, previous_page VARCHAR(250), request_method VARCHAR(10), Remote_host VARCHAR(250), remote_port Int) del =','
 guest_book.php,2012-03-17,10:37:03,guest_book.php,POST,cis_lab_24.example.edu,80
 index.php,2012-03-18,10:37:03,www.example.com/dgosselin/links.html,GET,dgosselin.example.com,80
 links.php,2012-03-18,10:37:44,index.php,GET,dgosselin.example.com,80
